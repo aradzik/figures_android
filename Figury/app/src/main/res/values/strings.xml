@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Figury</string>
+    <string name="Trojkat">Trojkat</string>
+    <string name="Kolo">Kolo</string>
+    <string name="Prostokat">Prostokat</string>
+    <string name="Resetuj">Resetuj</string>
+    <string name="Wybierz_figure">Wybierz figure</string>
+    <string name="Suma_pol">Suma pol=</string>
+    <string name="Pole">Pole =</string>
+    <string name="Dodaj">Dodaj</string>
+    <string name="Anuluj">Anuluj</string>
+    <string name="Oblicz">Oblicz</string>
+</resources>
